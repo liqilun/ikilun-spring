@@ -17,3 +17,6 @@ spring aop代理原理
 2.强制把jdk代理转换成cglib代理
 添加CGLIB库，SPRING_HOME/cglib/*.jar
 在spring配置文件中加入这里写图片描述
+
+springMVC 的工作原理和机制
+https://www.cnblogs.com/zbf1214/p/5265117.html
